@@ -3,3 +3,5 @@ monday
 friday
 
 tuesday
+
+wednesday
